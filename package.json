@@ -1,0 +1,12 @@
+
+{
+  "name": "a-t-mag.co.il",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "express": "~3.2.6",
+    "jade": "~0.31.2",
+    "nodemailer": "*",
+    "less-middleware": "*"
+  }
+}
